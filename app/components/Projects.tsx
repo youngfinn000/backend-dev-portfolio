@@ -14,7 +14,7 @@ const projects = [
   {
     title: 'Real-time Chat Server',
     description: 'Scalable WebSocket server for real-time chat applications',
-    technologies: [
+    technologies: [ 
       { name: 'Go', logo: '/go-logo.png', url: 'https://golang.org/' },
       { name: 'WebSocket', logo: '/websocket-logo.png', url: 'https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API' },
       { name: 'Redis', logo: '/redis-logo.png', url: 'https://redis.io/' },
