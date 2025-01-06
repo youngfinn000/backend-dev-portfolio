@@ -1,5 +1,5 @@
 import Hero from './components/Hero'
-//import Projects from './components/Projects'
+import Projects from './components/Projects'
 import Footer from './components/Footer'
 import PixelatedStars from './components/PixelatedStars'
 
