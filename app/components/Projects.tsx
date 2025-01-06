@@ -6,18 +6,18 @@ const projects = [
     title: 'E-commerce API',
     description: 'RESTful API for an e-commerce platform',
     technologies: [
-      //{ name: 'Node.js', logo: '/nodejs-logo.png', url: 'https://nodejs.org/' },
-      //{ name: 'Express', logo: '/express-logo.png', url: 'https://expressjs.com/' },
-      //{ name: 'MongoDB', logo: '/mongodb-logo.png', url: 'https://www.mongodb.com/' },
+      { name: 'Node.js', logo: '/nodejs-logo.png' },
+      { name: 'Express', logo: '/express-logo.png' },
+      { name: 'MongoDB', logo: '/mongodb-logo.png' },
     ],
   },
   {
     title: 'Real-time Chat Server',
     description: 'Scalable WebSocket server for real-time chat applications',
     technologies: [ 
-     // { name: 'Go', logo: '/go-logo.png', url: 'https://golang.org/' },
-     // { name: 'WebSocket', logo: '/websocket-logo.png', url: 'https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API' },
-     // { name: 'Redis', logo: '/redis-logo.png', url: 'https://redis.io/' },
+      { name: 'Go', logo: '/go-logo.png' },
+      { name: 'WebSocket', logo: '/websocket-logo.png' },
+      { name: 'Redis', logo: '/redis-logo.png' },
     ],
   },
   // Add more projects as needed
