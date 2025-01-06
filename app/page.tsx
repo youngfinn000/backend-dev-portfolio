@@ -1,5 +1,5 @@
 import Hero from './components/Hero'
-import Projects from './components/Projects'
+//import Projects from './components/Projects'
 import Footer from './components/Footer'
 import PixelatedStars from './components/PixelatedStars'
 
@@ -9,7 +9,7 @@ export default function Home() {
       <PixelatedStars />
       <div className="container mx-auto px-4 py-8">
         <Hero />
-        <Projects />
+         <Projects/>
         <Footer />
       </div>
     </main>
