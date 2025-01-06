@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section className="py-20 text-center">
       <h1 className="text-4xl md:text-6xl font-bold mb-4">
-        Hi, I'm{' '}
+        Hi, I&apos;m{' '}
         <TypeAnimation
           sequence={[
             'laureano martin',
