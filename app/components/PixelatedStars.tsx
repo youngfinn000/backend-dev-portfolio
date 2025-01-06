@@ -15,7 +15,7 @@ const PixelatedStars = () => {
     canvas.width = window.innerWidth
     canvas.height = window.innerHeight
 
-    const stars = []
+    const stars: { x: number; y: number; size: number }[] = []
     const starCount = 100
 
     for (let i = 0; i < starCount; i++) {
